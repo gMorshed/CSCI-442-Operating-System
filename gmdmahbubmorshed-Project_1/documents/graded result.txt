@@ -1,0 +1,2 @@
+14.65 / 15 on the final deliverable. Full points on the first two deliverable.
+Reason: Some formatting issues. Algorithm flag did not initially work, had to change some of the code for it to run.
